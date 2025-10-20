@@ -8,7 +8,7 @@ class Calculator
         int Sub (double, double);
         int Mul (double, double);
         int Div (double, double);
-	int Remainder (double a, double b);
+        int Remainder (double a, double b);
 };
 
 #endif//CALCULATOR_H
